@@ -86,7 +86,7 @@ Increased Revenue for Healthcare Providers: By reducing cancellations and no-sho
 
 Scalable and Sustainable: The system is scalable, allowing it to be adapted to larger clinics, hospitals, or healthcare networks in the future.
 
-Articles published / References
+# Articles published / References
 1. Tan, J., & Payton, F. (2022). Innovations in Healthcare Delivery: The Role of Mobile Applications and Online Booking Systems. Journal of Health Information Management, 36(2), 88-97.
 2. Raghupathi, W., & Raghupathi, V. (2014). Big Data Analytics in Healthcare: Promise and 	Potential. Health Information Science and Systems, 2(1), 1-10.
 3. 	Green, J. (2022). Patient-Centric Care: Enhancing the Appointment Experience Through 	Technology. Journal of Health Services Research & Policy, 27(3), 152-159.
